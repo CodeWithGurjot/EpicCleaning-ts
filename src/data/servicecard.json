@@ -1,0 +1,100 @@
+[
+  {
+    "id": 1,
+    "title": "FLOOD RESTORATION",
+    "content": "We always available 24/7 and give preference to an emergency call regarding flood restoration and also will sort it with insurance cover.",
+    "image": "images/flood.png",
+    "link": "flood-restoration"
+  },
+  {
+    "id": 2,
+    "title": "WINDOW CLEANING",
+    "content": "For those filthy high-rise windows, hire our window cleaners to reinvent the look of your windows and give them a spick & span makeover.",
+    "image": "images/window.jpg",
+    "link": "window-cleaning"
+  },
+  {
+    "id": 3,
+    "title": "BUILDER CLEANING",
+    "content": "Get your construction site efficiently cleaned to boost your workers morale for delivering better results. We make even the toughest jobs look easy.",
+    "image": "images/builderclean.jpg",
+    "link": "builder-cleaning"
+  },
+  {
+    "id": 4,
+    "title": "COMMERCIAL CLEANING",
+    "content": "Whether its a shopping mall or a medical facility, we will send our best cleaners to your aid for achieving results which are beyond compare.",
+    "image": "images/commercial.jpg",
+    "link": "commercial-cleaning"
+  },
+  {
+    "id": 5,
+    "title": "OFFICE CLEANING",
+    "content": "Every inch of your office property will be deeply cleaned to help motivate your employees to work at the best of their efforts.",
+    "image": "images/office.jpg",
+    "link": "office-cleaning"
+  },
+  {
+    "id": 6,
+    "title": "HOUSE CLEANING",
+    "content": "Your residential property deserves a thorough, extensive house cleaning every month or so to keep it. Looking fresh and welcoming for you as well as your guests.",
+    "image": "images/house.png",
+    "link": "house-cleaning"
+  },
+  {
+    "id": 7,
+    "title": "CARPET CLEANING",
+    "content": "This makes use of hot water extraction system -spraying a carpet at high pressure with a mixture of cleaning agent and very hot water.",
+    "image": "images/carpetclean.jpg",
+    "link": "carpet-cleaning"
+  },
+  {
+    "id": 8,
+    "title": "SPRING CLEANING",
+    "content": "Spring cleaning is one of our strong suits at Epic Cleaning Services. Consistent cleaning results at affordable prices are just a call away.",
+    "image": "images/springclean.jpg",
+    "link": "spring-cleaning"
+  },
+  {
+    "id": 9,
+    "title": "OVEN CLEANING",
+    "content": "A germ-ridden oven will only make your family sick. To avoid the same, we use eco-friendly disinfectants for a thorough cleanse of your oven.",
+    "image": "images/ovencleaning.jpg",
+    "link": "oven-cleaning"
+  },
+  {
+    "id": 10,
+    "title": "VINYL FLOOR STRIPING",
+    "content": "Reinvent the look of your vinyl floor with our affordable and time-effective vinyl floor stripping services available for both residential and commercial floors.",
+    "image": "images/vinyl.jpg",
+    "link": "vinyl-floor-stripping"
+  },
+  {
+    "id": 11,
+    "title": "END OF TENANCY CLEANING",
+    "content": "Do you want your bond money back? If yes, then do not take any chances and opt for our thorough end of lease cleaning today!",
+    "image": "images/endoftenacy.jpg",
+    "link": "end-of-tenancy-cleaning"
+  },
+  {
+    "id": 12,
+    "title": "INDUSTRIAL CLEANING",
+    "content": "Your industrial floors go through heavy wear and tear every day. Cater to their needs with our floor strip and polishing experts at work at Epic Cleaning Services.",
+    "image": "images/industrial.png",
+    "link": "industrial-cleaning"
+  },
+  {
+    "id": 13,
+    "title": "FLOOR TILES CLEANING",
+    "content": "Keep your tiles shining like new and clean as just installed with our efficient tile & grout cleaning services. Proficiency is 100% guaranteed!",
+    "image": "images/tiles.png",
+    "link": "floor-tiles-cleaning"
+  },
+  {
+    "id": 14,
+    "title": "UPHOLSTERY CLEANING",
+    "content": "The poor condition of your upholstery has a lot to say about you as a homeowner, and none of it will sound pleasing to you.",
+    "image": "images/upholstery.png",
+    "link": "upholstery-cleaning"
+  }
+]
